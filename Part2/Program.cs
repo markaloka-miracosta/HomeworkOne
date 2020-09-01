@@ -25,6 +25,7 @@ namespace Part2
             Console.WriteLine("        ***           ");
             Console.WriteLine("       *****           ");
             Console.WriteLine("      *******           ");
+            Console.WriteLine("     **********           "); // updated 
 
         }
     }
